@@ -1,0 +1,23 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Icade_Hall Ruffi
+
+## Skin
+
+### Label
+label4056.text = Aménagement d'un hall d'entrée
+
+## Media
+
+### Title
+panorama_E1806F1D_EA8C_E100_41E9_A862FED6B0DA.label = VR2_clair
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://t3architecture.fr/
